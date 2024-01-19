@@ -1,7 +1,7 @@
 
 # BFS PATH VISUALIZER
 
-It's a DOM Application to find the Shortest Path b/w two points in a maze
+It's a DOM Application to find the Shortest Path b/w two points in a maze based upon Algorithm Breadth First Search
 
 # Technology Used
   HTML5
